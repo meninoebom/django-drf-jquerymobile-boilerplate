@@ -1,1 +1,1 @@
-console.log('foo bar oipadvbiopads');
+console.log('foo');

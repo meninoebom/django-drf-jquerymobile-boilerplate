@@ -58,3 +58,6 @@ target/
 .idea/
 .DS_Store
 static/
+
+# Bower
+node_modules/
