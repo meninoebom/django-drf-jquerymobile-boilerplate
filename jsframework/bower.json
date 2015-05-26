@@ -1,0 +1,26 @@
+{
+  "name": "jsframework",
+  "version": "0.0.0",
+  "homepage": "https://github.com/meninoebom/django-drf-jquerymobile-stater-project",
+  "authors": [
+    "Brandon Brown <brandon.brown@ymail.com>"
+  ],
+  "keywords": [
+    "jquery",
+    "mobile",
+    "django",
+    "drf"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/jsframework/js/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-mobile-bower": "~1.4.5"
+  }
+}
