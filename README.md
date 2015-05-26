@@ -1,0 +1,1 @@
+This boilerplate scaffolds a Django project that uses Django Rest Framework and jQuery Moblie.
