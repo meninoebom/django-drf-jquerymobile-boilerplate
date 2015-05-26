@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+.idea/
+.DS_Store
+static/
+=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -55,6 +60,4 @@ docs/_build/
 
 # PyBuilder
 target/
-.idea/
-.DS_Store
-static/
+>>>>>>> 6cbedf298896d00e88266de995c488aecae964c7
